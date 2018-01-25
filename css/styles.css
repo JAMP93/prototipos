@@ -13,8 +13,26 @@ body, html{
   font-size: 14px;
 }
 
+div{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  background-color: #ffaa33
+}
+
 h1{
   font-size: 5rem;
   color: #333;
   text-transform: uppercase;
 }
+
+h3{
+  font-size: 3rem;
+  color: #555;
+  text-transform: uppercase;
+}
+
