@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  text_decoration: none;
+  box-sizing: border-box;
+  font-family: 'Karla';
+  list-style: none;
+}
+
+body, html{
+  font-size: 14px;
+}
+
+h1{
+  font-size: 5rem;
+  color: #333;
+  text-transform: uppercase;
+}
